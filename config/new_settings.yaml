@@ -1,0 +1,6 @@
+database:
+  name: mydatabase
+  type: postgresql
+server:
+  host: localhost
+  port: 8080
