@@ -1,0 +1,17 @@
+labels:
+  data_security: L1
+  enviroment: test
+  project_name: dw-test-dem-application
+  project_name_folder: dtrombin-test
+  project_sub_type:
+    id: '11128'
+    self: https://bip-xtech.atlassian.net/rest/api/2/customFieldOption/11128
+    value: POC
+  project_type: Client project(s)
+parent: folders/137289672019
+shared_vpc_service_config:
+  host_project: test-spoke-0
+  network_users:
+  - gcp-devops
+tag_bindings:
+  data-type: tagValues/281481147692528
