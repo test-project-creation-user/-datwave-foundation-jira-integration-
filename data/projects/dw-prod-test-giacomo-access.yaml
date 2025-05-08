@@ -1,0 +1,17 @@
+labels:
+  data_security: L1
+  enviroment: prod
+  project_name: dw-prod-test-giacomo-access
+  project_name_folder: dtrombin-test
+  project_sub_type:
+    id: '11129'
+    self: https://bip-xtech.atlassian.net/rest/api/2/customFieldOption/11129
+    value: Sandbox
+  project_type: Internal project(s)
+parent: folders/137289672019
+shared_vpc_service_config:
+  host_project: prod-spoke-0
+  network_users:
+  - gcp-devops
+tag_bindings:
+  data-type: tagValues/281481147692528
