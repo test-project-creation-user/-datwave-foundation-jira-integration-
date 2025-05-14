@@ -1,0 +1,18 @@
+billing_budgets:
+- dw-dev-fsdfrweg
+labels:
+  data_security: l0
+  engagement_manager: zelda_ailine_luconi
+  enviroment: dev
+  project_name: dw-dev-fsdfrweg
+  project_name_folder: luc-application
+  project_sub_type: poc
+  project_type: client
+  wbs: dw0000
+parent: folders/1062509769840
+shared_vpc_service_config:
+  host_project: dev-spoke-0
+  network_users:
+  - gcp-devops
+tag_bindings:
+  data-type: tagValues/281478635840395
