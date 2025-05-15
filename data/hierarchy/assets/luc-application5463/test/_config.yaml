@@ -1,0 +1,8 @@
+labels:
+  project_name_folder: luc-application5463
+  project_sub_type: assets
+  project_type: internal
+name: Test
+parent: folders/123456789
+tag_bindings:
+  environment: environment/test
