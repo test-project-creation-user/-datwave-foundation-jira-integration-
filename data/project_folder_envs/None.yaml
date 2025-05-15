@@ -1,0 +1,8 @@
+labels:
+  project_name_folder: luc-application546
+  project_sub_type: poc
+  project_type: client
+name: Development
+parent: folders/123456789
+tag_bindings:
+  environment: environment/dev
