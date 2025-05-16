@@ -1,0 +1,16 @@
+amount:
+  units: 54.0
+display_name: budget for dw-test-sync-zelda45
+filter:
+  period:
+    calendar: MONTH
+  projects:
+  - dw-test-sync-zelda45
+threshold_rules:
+- percent: 0.5
+- percent: 0.75
+update_rules:
+  default:
+    disable_default_iam_recipients: true
+    monitoring_notification_channels:
+    - billing-default
