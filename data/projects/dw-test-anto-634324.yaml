@@ -1,0 +1,18 @@
+billing_budgets:
+- dw-test-anto-634324
+labels:
+  data_security: l0
+  engagement_manager: zelda_ailine_luconi
+  environment: test
+  project_name: dw-test-anto-634324
+  project_name_folder: luc-application
+  project_sub_type: assets
+  project_type: internal
+  wbs: dw0000
+parent: folders/577398159806
+shared_vpc_service_config:
+  host_project: test-spoke-0
+  network_users:
+  - gcp-devops
+tag_bindings:
+  data-type: tagValues/281478635840395
