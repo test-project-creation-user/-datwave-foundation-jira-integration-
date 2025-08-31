@@ -1,0 +1,16 @@
+labels:
+  data_security: l0
+  engagement_manager: zelda_ailine_luconi
+  enviroment: prod
+  project_name: dw-prod-dem-application-500
+  project_name_folder: dtrombin-test
+  project_sub_type: POC
+  project_type: Client project(s)
+  wbs: dw0000
+parent: folders/137289672019
+shared_vpc_service_config:
+  host_project: prod-spoke-0
+  network_users:
+  - gcp-devops
+tag_bindings:
+  data-type: tagValues/281478635840395
